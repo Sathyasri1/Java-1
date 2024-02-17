@@ -1,0 +1,8 @@
+Auth:
+  project_token: 720caaaa-0d60-4524-864c-4f352132acad
+  customer_token: 6adf1fb5-cba2-4a30-bf64-6e11d8e99fdc
+SAST:
+  language: java
+SCA:
+  language: java
+Secret_Scan: true
